@@ -27,3 +27,5 @@ Where <i>characters_model.weights</i> is the pre-trained model and <i>plate1.jpg
 
 The result will look like this:<br>
 <img src="https://raw.githubusercontent.com/minhthangdang/minhthangdang.github.io/master/plate05.PNG" width="300" alt="Characters segmentation and recognition for vehicle license plate" title="Characters segmentation and recognition">
+
+Full tutorial is available at http://dangminhthang.com/computer-vision/characters-segmentation-and-recognition-for-vehicle-license-plate/
