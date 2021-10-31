@@ -29,6 +29,6 @@ The result will look like this:<br>
 <img src="https://raw.githubusercontent.com/minhthangdang/minhthangdang.github.io/master/plate05.PNG" width="300" alt="Characters segmentation and recognition for vehicle license plate" title="Characters segmentation and recognition">
 
 Demo video:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/r_09uCdiH1Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Demo Characters Segmentation and Recognition](https://img.youtube.com/vi/r_09uCdiH1Y/hqdefault.jpg)](https://www.youtube.com/watch?v=r_09uCdiH1Y)
 
 Full tutorial is available at http://dangminhthang.com/computer-vision/characters-segmentation-and-recognition-for-vehicle-license-plate/
