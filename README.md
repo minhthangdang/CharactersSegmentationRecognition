@@ -32,7 +32,7 @@ Demo video:
 
 [![](https://img.youtube.com/vi/r_09uCdiH1Y/hqdefault.jpg)](https://www.youtube.com/watch?v=r_09uCdiH1Y "")
 
-[![Characters segmentation and recognition](https://img.youtube.com/vi/r_09uCdiH1Y/0.jpg)](https://www.youtube.com/watch?v=r_09uCdiH1Y)
+[![Characters segmentation and recognition](https://img.youtube.com/vi/r_09uCdiH1Y/1.jpg)](https://www.youtube.com/watch?v=r_09uCdiH1Y)
 
 
 Full tutorial is available at http://dangminhthang.com/computer-vision/characters-segmentation-and-recognition-for-vehicle-license-plate/
